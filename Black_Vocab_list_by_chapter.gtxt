@@ -1,0 +1,575 @@
+# Learn to Read New Testament Greek 3rd Edition
+# by David Allen Black, ISBN 978-080544493-3
+# Version 1.0, Paul Denisowski (paul@denisowski.org)
+# Version 2.0, Berwyn Hoyt (minor corrections)
+
+# Chapter 01
+ἀπόστολος : apostle
+σῶμα : body
+φωνή : sound, voice
+καρδία : heart (cardiac)
+φόβος : fear
+γένος : race (genus)
+Φίλιππος : Philip
+ἔξοδος : departure (Exodus)
+ζωή : life (zoology)
+Πέτρος : Peter
+θεός : God (theology)
+γυνή : woman (gynecology)
+πατήρ : father (paternal)
+ψυχή : soul (psychology)
+πόλις : city (political)
+Χριστός : Christ
+
+# Chapter 02
+ἔχω : I have
+ἔχεις : You have
+ἔχει : He has
+ἔχομεν : We have
+ἔχετε : You have
+ἔχουσι(ν) : They have
+ἀκούω : I hear
+ἀκούεις : You hear
+ἀκούει : He hears
+ἀκούομεν : We hear
+
+# Chapter 03 - ω verbs
+ἄγω, ἄξω : I lead, I will lead
+ἀκούω, ἀκούσω  : I hear, I will hear
+βαπτίζω, βαπτίσω : I baptize, I will baptize √βαπτιδ
+βλέπω, βλέψω : I see, I will see
+γράφω, γράζψω : I write, I will write
+διδάσκω, διδάξω : I teach, I will teach √διδακ
+δοξάζω, δοξάσω : I glorify, I will glorify √δοξαδ
+ἑτοιμάζω, ἑτοιμάσω : I prepare, I will prepare √ἐτοιμαδ
+ἔχω, ἔξω : I have, I will have √ἑχ
+θεραπεύω, θεραπεύσω : I heal, I will heal
+κηρύσσω, κηρύξω : I preach, I will preach √κηρυκ
+λύω, λύσω : I loose, I will loose
+πείθω, πείσω : I trust in, I will trust in √πιθ
+πέμπω, πέμψω : I send, I will send
+πιστεύω, πιστεύσω : I believe, I will believe
+σώζω, σώσω : I save, I will save √σωδ
+εἰμί : I am √ἐς (is)
+μή : not (with non-indicative moods)
+οὐ : not (with indicative moods)
+
+# Chapter 04 - 2nd declension nouns
+ἄγγελος, ὁ : angel, messenger
+ἀγρός, ὁ : field
+ἀδελφός, ὁ : brother, fellow believer
+ἁμαρτωλός, ὁ : sinner
+ἄνθρωπος, ὁ : man, person
+ἀπόστολος, ὁ : apostle, messenger
+διάκονος, ὁ : minister
+δοῦλος, ὁ : servant, slave
+θάνατος, ὁ : death
+θεός, ὁ : God, god
+Ἰησοῦς, ὁ :  Jesus
+κόσμος, ὁ : world
+κύριος, ὁ : Lord, master
+λίθος, ὁ : stone
+λόγος, ὁ : word, message
+νόμος, ὁ : law
+οἶκος, ὁ : house, household
+ὄχλος, ὁ : crowd
+υἱός, ὁ : son
+Χριστός, ὁ : Christ
+δῶρον, τό : gift √δο
+ἔργον, τό : work
+εὐαγγέλιον, τό : gospel
+ἱερόν, τό : temple
+τέκνον, τό : child
+ἔρημος, ἡ : wilderness, desert
+ὁδός, ἡ : road, way
+γινώσκω : I know √γνο
+λαμβάνω : I take, I receive √λαβ
+λέγω : I say, I speak
+φέρω : I bring, I bear
+ἀλλά : but
+δέ : now, but
+καί : and, also, even
+καὶ ... καί : both ... and
+
+# Chapter 05 - 1st declension nouns
+ἀλήθεια, ἡ : truth
+ἁμαρτία, ἡ : sin
+βασιλεία, ἡ : kingdom, reign
+διακονία, ἡ : ministry, service
+ἐκκλησία, ἡ : church
+ἐξουσία, ἡ : authority, right
+ἐπιθυμία, ἡ : desire, lust
+ἡμέρα, ἡ : day
+καρδία, ἡ : heart
+μαρτυρία, ἡ : testimony
+οἰκία, ἡ : house
+παρρησία, ἡ : boldness, confidence
+σοφία, ἡ : wisdom
+σωτηρία, ἡ : salvation
+χαρά, ἡ : joy
+ὥρα, ἡ : hour
+γλῶσσα, ἡ : tongue, language
+δόξα, ἡ : glory
+θάλασσα, ἡ : sea
+ἀγάπη, ἡ : love
+ἀρχή, ἡ : beginning
+γῆ, ἡ : earth, land
+γραφή, ἡ : Scripture, writing
+διαθήκη, ἡ : covenant
+διδαχή, ἡ : teaching
+δικαιοσύνη, ἡ : righteousness
+εἰρήνη, ἡ : peace
+ἐντολή, ἡ : commandment
+ἐπιστολή, ἡ : letter
+ζωή, ἡ : life
+κεφαλή, ἡ : head
+ὀργή, ἡ : anger
+παραβολή, ἡ : parable
+περιτομή, ἡ : circumcision
+προσευχή, ἡ : prayer
+συναγωγή, ἡ : synagogue
+ὑπομονή, ἡ : endurance, steadfastness
+φωνή, ἡ : voice, sound
+ψυχή, ἡ : soul, life
+μαθητής, ὁ : disciple √μαθ
+προφήτης, ὁ : prophet
+στρατιώτης, ὁ : soldier
+τελώνης, ὁ : tax collector
+ὑποκριτής, ὁ : hypocrite
+Μεσσίας, ὁ : Messiah
+νεανίας, ὁ : young man, youth
+ὁ, ἡ, τό : the
+ἀπό : from; away from, of (with gen.)
+εἰς : into; to, for, in (with acc.)
+ἐκ : out of; from, by (with gen.)
+ἐν : in; within, by, with, among (with dat.)
+
+# Chapter 06 - adjectives (1st/2nd declension)
+ἀγαθός, -ή, -όν : good
+ἀγαπητός, -ή, -όν : beloved
+ἄλλος, -η, -ο : other
+δυνατός, -ή, -όν : powerful, possible
+ἕκαστος, -η, -ον : each, every
+ἔσχατος, -η, -ον : last
+καινός, -ή, -όν : new
+κακός, -ή, -όν : bad
+καλός, -ή, -όν : good, beautiful
+μόνος, -η, -ον : only
+πιστός, -ή, -όν : faithful √πιθ
+πρῶτος, -η, -ον : first
+σοφός, -ή, -όν : wise
+τρίτος, -η, -ον : third
+ἅγιος, -α, -ον : holy, saint
+ἄξιος, -α, -ον : worthy
+δεύτερος, -α, -ον : second
+δίκαιος, -α, -ον : righteous, just √δικ ("to point out", dictate)
+ἕτερος, -α, -ον : other, different
+ἰσχυρός, -ά, -όν : strong
+μακάριος, -α, -ον : blessed
+μικρός, -ά, -όν : small, little
+νεκρός, -ά, -όν : dead
+νέος, -α, -ον : new, young
+πονηρός, -ά, -όν : evil
+ἀδύνατος, -ον : impossible
+αἰώνιος, -ον : eternal
+ἀκάθαρτος, -ον : unclean
+ἄπιστος, -ον : unbelieving, faithless
+
+# Chapter 07 - Imperfect and Aorist verbs (active indicative)
+ἁμαρτάνω : I sin √ἁμαρτ
+βάλλω : I throw √βαλ
+ἐσθίω : I eat
+εὑρίσκω : I find √εὑρ
+λείπω : I leave √λιπ
+μανθάνω : I learn √μαθ
+πάσχω : I suffer √παθ
+φεύγω : I flee √φυγ
+ἤκουσα : I heard (first aorist active indicative)
+ἡμάρτησα : I sinned (first aorist active indicative)
+ἐβάπτισα : I baptized (first aorist active indicative)
+ἔβλεψα : I saw (first aorist active indicative)
+ἔγραψα : I wrote (first aorist active indicative)
+ἐδίδαξα : I taught (first aorist active indicative)
+ἐδόξασα : I glorified (first aorist active indicative)
+ἡτοίμασα : I prepared (first aorist active indicative)
+ἐθεράπευσα : I healed (first aorist active indicative)
+ἐκήρυξα : I preached (first aorist active indicative)
+ἔλυσα : I loosed (first aorist active indicative)
+ἔπεισα : I trusted in or persuaded (first aorist active indicative)
+ἔπεμψα : I sent (first aorist active indicative)
+ἐπίστευσα : I believed (first aorist active indicative)
+ἔσωσα : I saved (first aorist active indicative)
+ἤνεγκα : I bore, I brought (first aorist active indicative)
+ἤγαγον : I led (second aorist active) 
+ἥμαρτον : I sinned (second aorist active) 
+ἔβαλον : I threw (second aorist active) 
+ἔγνων : I knew (second aorist active) 
+ἔφαγον : I ate (esophagous - second aorist active) √θαγ
+εὗρον : I found (second aorist active) 
+ἔσχον : I had (second aorist active) 
+εἶχον : I was having (imperfect active) 
+ἔλαβον : I took, received (second aorist active) 
+εἶπον : I said, I spoke (second aorist active of λέγω) 
+ἔλιπον : I left behind, lacked (second aorist active) 
+ἔμαθον : I learned (second aorist active) 
+εἶδον : I saw (second aorist active of ὁράω) 
+ἔπαθον : I suffered (second aorist active) 
+ἔφυγον : I fled (second aorist active) 
+ἤνεγκον : I bore, I brought (second aorist active) 
+
+# Chapter 08 - more prepositions
+διά : through, by (with gen.); because of, on account of (with acc.)
+κατά : against, down (with gen.); according to (with acc.)
+μετά : with (with gen.); after (with acc.)
+περί : about, concerning, for (with gen.); around (with acc.)
+ὑπέρ : for (with gen.); above, over (with acc.)
+ὑπό : by (with gen.); under (with acc.)
+ἐπί : upon, on, at, about (with gen., dat., and acc.)
+παρά : from (with gen.); with (with dat.); beside, by (with acc.)
+ἀνά : up (with acc.)
+ἀντί :  instead of, in place of, for (with gen.)
+πρό : before (with gen.)
+πρός : to, towards, with (with acc.)
+σύν : with (with dat.)
+ἀναγινώσκω : I read
+ἀνοίγω : I open/unlock (√οιγ; 1 aorist ἀνέωξα)
+ἀποθνήσκω : I die (√θαν; 2 aorist ἀπέθανον)
+ἐκβάλλω : I throw out, I cast out
+
+# Chapter 09 - Personal pronouns
+αὐτόσ, -ή, -ό : he, same, self
+ἐγώ : I
+σύ : you
+
+# Chapter 10 - Perfect and Pluperfect verbs (active indicative)
+οἶδα : I know
+ἡμάρτηκα : I have sinned (perfect active indicative)
+βέβληκα : I have thrown (perfect active indicative)
+ἔγνωκα : I have known (perfect active indicative)
+ἡτοίμακα : I have prepared (perfect active indicative)
+εὕρηκα : I have found (perfect active indicative)
+ἔσχηκα : I have had (perfect active indicative)
+τεθεράπευκα : I have healed (perfect active indicative)
+εἴρηκα : I have said, I have spoken (perfect active indicative of λέγω)
+λέλυκα : I have loosed (perfect active indicative)
+μεμάθηκα : I have learned (perfect active indicative)
+ἑώρακα : I have seen (perfect active indicative)
+πεπίστευκα : I have believed (perfect active indicative)
+σέσωκα : I have saved (perfect active indicative)
+ἀκήκοα : I have heard (second perfect active indicative)
+γέγραφα : I have written (second perfect active indicative)
+πέπονθα : I have suffered (second perfect active indicative)
+πέποιθα : I have trusted in (second perfect active indicative)
+πέπομθα : I have sent (second perfect active indicative)
+πέφευγα : I have fled (second perfect active indicative)
+ὅτι : that, because
+
+# Chapter 11 - Demonstrative pronouns
+ἐκεῖνος, -η, -ο : that 
+οὗτος, αὕτη, τοῦτο : this
+ἀμνός, ὁ : lamb
+ἄρτος, ὁ : bread
+διάβολος, ὁ : slanderer, devil
+ἐχθρός, ὁ : enemy
+ἥλιος, ὁ : sun
+θρόνος, ὁ : throne
+καιρός, ὁ : time, occasion
+καρπός, ὁ : fruit
+λαός, ὁ : people
+ναός, ὁ : temple, sanctuary
+οὐρανός, ὁ : heaven
+ὀφθαλμός, ὁ : eye
+Πέτρος, ὁ : Peter
+σταυρός, ὁ : cross
+τόπος, ὁ : place
+τυφλός, ὁ : blind man 
+φίλος, ὁ : friend
+φόβος, ὁ : fear
+χρόνος, ὁ : time
+βιβλίον, τό : book
+δαιμόνιον, τό : demon
+ἱμάτιον, τό : cloak, garment
+μυστήριον, τό : secret
+παιδίον, τό : child
+πλοῖον, τό : boat
+σάββατον, τό : Sabbath
+σημεῖον, τό : sign
+
+# Chapter 12 - Present middle and passive verbs (indicative)
+ἄρχω : I rule
+ὑπάρχω : I am, I exist
+
+Deponent verbs:
+ἀποκρίνομαι : (dep) I answer
+ἄρχομαι : (dep) I begin
+ἀσπάζομαι : (dep) I greet
+βούλομαι : (dep) I wish
+γίνομαι : (dep) I become, I am
+δέχομαι : I receive
+ἐκπορεύομαι : (dep) I come out, I go out
+ἐργάζομαι : (dep) I work
+ἔρχομαι : (dep) I come, I go
+εὐαγγέλίζομαι : (dep) I preach the gospel, I bring good news
+λογίζομαι : (dep) I consider
+πορεύομαι : (dep) I come, I go
+προσεύχομαι : (dep) I pray
+ψεύδομαι : (dep) I lie
+
+# Chapter 13 - Perfect M/P & Future Middle verbs (indicative)
+βέβλημαι : I have been thrown (perfect middle/passive indicative)
+βεβάπτισμαι : I have been baptized (perfect middle/passive indicative)
+ἔγνωσμαι : I have been known (perfect middle/passive indicative)
+γέγπραμμαι : I have been written (perfect middle/passive indicative)
+λέλυμαι : I have been loosed (perfect middle/passive indicative)
+σέσωσμαι : I have been saved (perfect middle/passive indicative)
+
+Adverbs:
+ἄχρι : until, up to (with gen.)
+ἔτι : still, yet
+ἕως : until, up to (with gen.)
+καθώς : just as, just
+καλῶς : rightly, well
+νῦν : now
+ὅπου : where
+ὅτε : when
+οὐκέτι : no longer
+οὐχί : not
+σήμερον : today
+τότε : then
+
+More conjunctions:
+γάρ : for (postpositive)
+διό : therefore
+ἤ : or
+μὲν ... δέ : on the one hand ... on the other hand (postpositive)
+οὐδέ : and not, nor, not even
+οὐδὲ ... οὐδέ : neither, nor
+οὖν : therefore, then
+
+# Chapter 14 - Imperfect M/P, Aorist middle, and Pluperfect M/P verbs (indicative)
+ἀμήν : truly
+ἀξίως : worthily
+ἐγγύς : near
+ἐκεῖ : there, in that place
+εὐθύς : immediately, at once
+ἔξω : outside
+οὕτως : thus, in this manner
+πάντοτε : always
+πότε : when?
+ὥδε : here, in this place
+
+# Chapter 15 - Aorist & Future passive (indicative)
+ἤχθην : I was led (first aorist passive)
+ἠκούσθην : I was heard (first aorist passive)
+ἐβλήθην : I was thrown (first aorist passive)
+ἐβαπτίσθην : I was baptized (first aorist passive)
+ἐγενήθην : I became (deponent)
+ἐγνώσθην : I was known (first aorist passive)
+ἐδιδάχθην : I was taught (first aorist passive)
+ἐδοξάσθην : I was glorified (first aorist passive)
+ἡτοιμάσθην : I was prepared (first aorist passive)
+ἐκηρύχθην : I was preached (first aorist passive)
+ἐλήμφθην : I was taken, I was received (first aorist passive)
+ἐλείφθην : I was left (first aorist passive)
+ἐπείσθην : I was trusted in (first aorist passive)
+ἐπέμφθην : I was sent (first aorist passive)
+ἐπορεύθην : I went (deponent)
+ἐσώθην :  I was saved (first aorist passive)
+ὤφθην : I was seen (first aorist passive)
+ἀπεστάλην : I was sent (second aorist passive indicative)
+ἐγράφην : I was written (second aorist passive indicative)
+
+# Chapter 16 
+# no vocab
+
+# Chapter 17 - 3rd declension nouns
+--- σῶμα types: ---
+αἷμα, αἷματος, τό : blood
+θέλημα, θέλήματος, τό : will
+ὄνομα, ὀνόματος, τό : name
+πνεῦμα, πνεύματος, τό : Spirit, spirit
+πῦρ, πῦρός, τό : fire
+ῥῆμα, ῤήματος, τό : word, saying
+σπέρμα, σπέρματος, τό : seed, descendent
+στόμα, στόματος, τό : mouth
+σῶμα, σώματος, τό : body
+ὕδωρ, ὕδατος, τό : water
+φῶς, φωτός, τό : light
+--- σάρξ types: ---
+ἐλπίς ἐλπίδος, ἡ : hope
+νύξ, νυκτός, ἡ : night
+σάρξ, σαρκός, ἡ : flesh
+χάρις χάριτος, ἡ : grace, favor
+χείρ, χειρός, ἡ : hand
+--- ἄρχων types (masculine): ---
+αἰών, αἰώνος, ὁ : age
+- eg: εἰς τὸν αἰῶνα : forever
+- eg: εἰς τοὺς αἰώνας : forever
+ἀνήρ, ἀνδρός, ὁ : man, husband
+ἄρχων, ἄρχοντος, ὁ : ruler
+μάρτυς, μάρτυρος, ὁ : witness
+πατήρ, πατρός, ὁ : father
+--- γένος types: ---
+γένος, γένους, τό : race
+ἔθνος, ἔθνους, τό : nation, Gentile
+ἔλεος, ἔλέους, τό : mercy
+ἔτος, ἔτους, τό : year
+μέρος, μέρους, τό : part
+πλῆθος, πλήθους, τό : multitude, crowd
+σκότος, σκότους, τό : darkness
+τέλος, τέλους, τό : end
+--- βασιλεύς types: ---
+ἀρχιερεύς, ἀρχιερέως, ὁ : high priest, chief priest
+βασιλεύς, βασιλέως, ὁ : king
+γραμματεύς, γραμματέως, ὁ : scribe, teacher of the law
+ἱερεύς, ἱερέως, ὁ : priest
+--- πόλις types: ---
+ἀνάστασις, ἀναστάσεως, ἡ : resurrection
+γνῶσις, γνώσεως, ἡ : knowledge
+δύναμις, δυνάμεως, ἡ : power
+θλῖψις, θλίψεως, ἡ : affliction, tribulation
+κλήσις, κλήσεως, ἡ : calling √καλ
+κρίσις, κρίσεως, ἡ : judgement
+παράκλησις, παρακλήσεως, ἡ : encouragement, comfort
+πίστις, πίστεως, ἡ : faith
+πόλις, πόλεως, ἡ : city
+--- ἄρχων types (feminine): ---
+γυνή, γυναικός, ἡ : woman, wife
+θυγάτηρ, θυγατρός, ἡ : daughter
+μήτηρ, μητρός, ἡ : mother (maternal)
+
+# Chapter 18 - 1st & 3rd Declension Adjectives, Pronouns, Numerals
+ἄπας, ἄπασα, ἄπαν : each, every, all, whole
+εἶς, μία, ἔν : one
+μέγας, μεγάλη, μέγα : big, large, great
+μηδείς, μηδεμία, μηδέν : no one, none, nothing, no (with non-indicative moods)
+οὐδείς, οὐδεμία, οὐδέν : no one, none, nothing, no (with indicative moods)
+πᾶς, πᾶσα, πᾶν : each, every, all, whole
+πολύς, πολλή, πολύ : much, many
+ἀληθής, ἀληθής, ἀληθές : true (M/F paradigms identical)
+δύο : two
+δώδεκα : twelve
+μείζων, μεῖζον : greater, larger
+πέντε : five
+τέσσαρες, τέσσαρα : four
+τρεῖς, τρία : three
+
+# Chapter 19 - Contract & Liquid verbs
+ἀγαπάω : I love
+γεννάω : I give birth to
+ἐπιτιμάω : I rebuke, warn
+ἐρωτάω : I ask, request
+ζάω : I live
+μεριμνάω : I worry, I am anxious
+νικάω : I overcome
+ὁράω : I see
+πλανάω : I deceive, I lead astray
+τιμάω : I honor
+ἀκολουθέω : I follow
+αἰτέω : I ask
+ἀσθενέω : I am weak
+βλασφημέω : I revile, I blaspheme
+δέω : I bind, I tie
+διακονέω : I serve, I minister to
+δοκέω : I think, I seem
+ἐπικαλέω : I call upon 
+εὐλογέω : I bless
+εὐχαριστέω : I give thanks, I thank
+ζητέω : I seek
+θεωρέω : I see, I perceive
+καλέω : I call
+κρατέω : I grasp, I take hold of
+λαλέω : I speak (glossa-lal-ia)
+μαρτυρέω : I testify, I bear witness
+μετανοέω : I repent
+μισέω : I hate
+οἰκοδομέω : I build up, I edify
+παρακαλέω : I urge, I exhort, I comfort
+περιπατέω : I walk
+ποιέω : I do, I make
+προσκυνέω : I worship
+τηρέω : I keep
+φιλέω : I love
+φωνέω : I call
+δηλόω : I show
+δικαιόω : I justify
+πληρόω : I fill, fulfill
+σταυρόω : I crucify
+τελειόω : I perfect, complete
+φανερόω : I reveal
+ἀγγέλλω : I announce
+αἴρω : I take up, take away
+ἀναβαίνω : I go out, I ascend
+ἀποκτείνω : I kill
+ἀποστέλλω : I send
+βαίνω : I go
+ἐγείρω : I raise
+θέλω : I want, I will
+καταβαίνω : I go down, I descend
+κρίνω : I judge
+μένω : I remain, I abide
+σπείρω : I sow
+
+# Chapter 20 - Participles (verbal adjectives)
+# no vocab
+
+# Chapter 21 - Infinitives (verbal nouns)
+δεῖ : it is necessary (impers. verb; takes the acc. and inf.)
+ἔξεστι(ν) : it is lawful (impers. verb; takes the dat. and inf.)
+μέλλω : I am about to, I will (takes the inf.)
+πρίν : before
+ὥστε : so that
+
+# Chapter 22 - More pronouns
+ἀλλήλων : one another
+ἑαυτοῦ, -ῆς : himself, herself
+ἐμαυτοῦ, -ῆς : myself
+ἐμός, -ή, -όν : my, mine
+ἡμέτερος, -α, -ον : our
+ἴδιος, -α, -ον : his, one's own
+ὅς, ἥ, ὅ : who, which, that, what
+ὅστις, ἥτις, ὅτι : who, whoever, what, whatever
+σεαθτοῦ, -ῆς : yourself
+σός, σή, σόν : your (singular)
+τίς, τί : who?, which?, what?, why?
+τις, τι : one, a certain one, someone, anyone
+ὑμέτερος, -α, -ον : your (plural)
+
+# Chapter 23 - The Subjunctive mood
+ἄν : a particle adding an element of indefiniteness to a clause
+ἐαν : if
+ἐαν μή : except, unless
+εἰ : if
+ἵνα : that, in order that 
+ὅπως : that, in order that 
+ὅταν : whevever, when
+πάλιν : again
+πῶς : how?
+ὡς : as, about
+
+# Chapter 24 - Imperative and Optative moods
+ἰδού : See!, Look!, Behold!
+οὐαί : Woe!, How terrible!
+ἀγοράζω : I buy
+ἐγγίζω : I come near
+ἐλπίζω : I hope
+θαυμάζω : I am amazed
+καθαρίζω : I cleanse
+καθίζω : I seat, I sit
+πειράζω : I test, I tempt
+σκανδαλίζω : I cause to stumble, I cause to sin
+
+# Chapter 25 - The Conjugation of -μι verbs
+ἀνίστημι : I raise, I rise
+ἀποδίδωμι : I give back, I repay
+ἀπόλλυμι : I destroy
+ἀφίημι : I send away, forgive
+δείκνυμι : I show
+δίδωμι : I give (√δο; donate)
+δύναμαι : I am able, I can
+ἐπιτίθημι : I put on
+ἵστημι : I stand, cause to stand (√στα; static)
+κάθημαι : I sit
+παραδίδωμι : I betray, I hand over, I pass on
+τίθημι : I place, I put (√θε; thesis)
+φημί : I say (√φα; phatic)
