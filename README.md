@@ -11,3 +11,6 @@ Feel free to download them and use them yourself -- each page can easily be save
 
 *The last two are specifically formatted to match *Learn to Read New Testament Greek* 3rd Edition, by David Alan Black.
 
+### Berwyn's other study tools
+
+[Wordcount extension for Libreoffice](https://github.com/berwynhoyt/wordcount-sections) -- counts words in each section of a document, e.g. Abstract, Essay, Footnotes.
