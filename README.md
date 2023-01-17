@@ -13,4 +13,4 @@ Feel free to download them and use them yourself -- each page can easily be save
 
 ### Berwyn's other study tools
 
-[Wordcount extension for Libreoffice](https://github.com/berwynhoyt/wordcount-sections) -- counts words in each section of a document, e.g. Abstract, Essay, Footnotes.
+[Wordcount extension for Libreoffice](https://extensions.libreoffice.org/en/extensions/show/27358) -- counts words in each section of a document, e.g. Abstract, Essay, Footnotes.
