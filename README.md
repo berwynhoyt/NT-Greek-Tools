@@ -8,6 +8,7 @@ Feel free to download them and use them yourself -- each page can easily be save
   - Bonus: [Strongs Hebrew concordance](https://berwynhoyt.github.io/NT-Greek-Tools/Strongs_hebrew_english_dictionary_updated_english.html) in one table
 - [Black vocab list](https://berwynhoyt.github.io/NT-Greek-Tools/Black_vocab_list_by_chapter.html) - from Black's textbook* - all in one table
 - [Black cheatsheet](https://berwynhoyt.github.io/NT-Greek-Tools/Black_cheatsheet.pdf) - my own 2-sided succinct summary of the whole Greek grammar by chapter in Black's textbook*
+  and a small [supplement](https://berwynhoyt.github.io/NT-Greek-Tools/Black_cheatsheet_supplement.pdf) for less common stuff.
 
 *The last two are specifically formatted to match *Learn to Read New Testament Greek* 3rd Edition, by David Alan Black.
 
