@@ -1,7 +1,9 @@
 # NT-Greek-Tools
-Here are some New Testament Greek reference tools. They are formatted formatted for easy searching in your browser which will let you search without diacritics. The tables have been formatted so that the headings remain visible even when you scroll your browser.
+Here are some New Testament Greek reference tools. They are formatted for easy searching in your browser which will let you search without diacritics. The tables have been formatted so that the headings remain visible even when you scroll your browser.
 
-Feel free to download them and use them yourself -- each page can easily be saved to your own computer by simply right-clicking it. 
+Simply select a link below and it will appear in your web browser. Then type <Ctrl-F> for 'find' and then type Greek or English letters to find that entry.
+
+Feel free to download them and use them yourself -- each page can easily be saved to your own computer by simply right-clicking it and selecting "Save as".
 
 - [All principal parts of NT Greek verbs](https://berwynhoyt.github.io/NT-Greek-Tools/All_principal_parts_NT_Greek.html) in one table
 - [Strongs Greek concordance](https://berwynhoyt.github.io/NT-Greek-Tools/Strongs_koine_greek_english_dictionary_updated_english.html) in one table
